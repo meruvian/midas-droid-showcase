@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Social</string>
+
+   <!-- <string name="refresh_google">Refres Google</string>
+    <string name="refresh_merv_id">Refres MERVID</string>
+    <string name="refresh_facebook">Refres Facebook</string>
+    <string name="access_merv_id">Access MERVID</string>
+    <string name="access_facebook">access Facebook</string>
+    <string name="access_google">Access Google</string>
+    <string name="update_merv_id">Update MERVID</string>
+    <string name="update_facebook">Update Facebook</string>
+    <string name="update_google">Update Google</string>
+    <string name="finish_update_merv_id">Finis Update MERVID</string>
+    <string name="finish_update_facebook">Finish Update Facebook</string>
+    <string name="finish_update_google">Finish Update Google</string>-->
+</resources>

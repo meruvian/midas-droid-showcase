@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Midas.iml" filepath="$PROJECT_DIR$/Midas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-social/login-social.iml" filepath="$PROJECT_DIR$/login-social/login-social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midas-core/midas-core.iml" filepath="$PROJECT_DIR$/midas-core/midas-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midas-social/midas-social.iml" filepath="$PROJECT_DIR$/midas-social/midas-social.iml" />
+    </modules>
+  </component>
+</project>
+

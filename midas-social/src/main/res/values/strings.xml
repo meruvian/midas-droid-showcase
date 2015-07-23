@@ -1,0 +1,47 @@
+<resources>
+    <string name="loading">Please wait ...</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="facebook_app_id">214449985280831</string>
+
+    <string name="login_merv_id">Login with Merv.ID</string>
+    <string name="login_yama_id">Login with Yama.ID</string>
+    <string name="login_facebook">Login with Facebook</string>
+    <string name="login_twitter">Login with Twitter</string>
+    <string name="login_google">Login with Google+</string>
+
+    <string name="logout_merv_id">Logout from Merv.ID</string>
+    <string name="logout_yama_id">Logout with Yama.ID</string>
+    <string name="logout_facebook">Logout from Facebook</string>
+    <string name="logout_twitter">Logout from Twitter</string>
+    <string name="logout_google">Logout form Google+</string>
+
+    <string name="signing_in_merv_id">Signing in Merv.ID</string>
+    <string name="signing_in_yama_id">Signing with Yama.ID</string>
+    <string name="signing_in_facebook">Signing in Facebook</string>
+    <string name="signing_in_twitter">Signing in Twitter</string>
+    <string name="signing_in_google">Signing in Google+</string>
+
+    <string name="access_merv_id">Connecting to Merv.ID</string>
+    <string name="access_yama_id">Connecting with Yama.ID</string>
+    <string name="access_facebook">Connecting to in Facebook</string>
+    <string name="access_twitter">Connection to Twitter</string>
+    <string name="access_google">Connecting to Google+</string>
+
+    <string name="refresh_yama_id">Refresh Token Yama.ID</string>
+    <string name="refresh_merv_id">Refresh Token Merv.ID</string>
+    <string name="refresh_facebook">Refresh Token Facebook</string>
+    <string name="refresh_google">Refresh Token Google+</string>
+
+    <string name="update_merv_id">Updating Merv.ID Information</string>
+    <string name="update_yama_id">Updating Yama.ID Information</string>
+    <string name="update_facebook">Updating Facebook Information</string>
+    <string name="update_google">Updating Google+ Information</string>
+
+    <string name="finish_update_merv_id">Succeed Update Merv.ID Information</string>
+    <string name="finish_update_yama_id">Succeed Update Yama.ID Information</string>
+    <string name="finish_update_facebook">Succeed Update Facebook Information</string>
+    <string name="finish_update_google">Succeed Update Google+ Information</string>
+
+    <string name="failed_recieve">Failed receive Data</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_layout_gplus">
+
+    <ImageView
+        android:id="@+id/facebook_logo"
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:src="@drawable/gplus_white_logo"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"
+        android:focusable="false"/>
+
+    <View
+        android:layout_width="2px"
+        android:layout_height="fill_parent"
+        android:background="@color/gplus_click"/>
+
+    <Button
+        android:id="@+id/button_google_login"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height"
+        style="@style/gplus_button"
+        android:text="Login with Google+"
+        android:background="@drawable/bg_gplus"
+        android:paddingLeft="@dimen/dp20"
+        android:gravity="left|center_vertical"
+        android:textSize="@dimen/sp16"/>
+</LinearLayout>

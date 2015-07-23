@@ -1,0 +1,3 @@
+include ':login-social'
+include ':midas-core'
+include ':midas-social'
